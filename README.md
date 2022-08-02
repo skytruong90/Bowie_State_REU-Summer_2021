@@ -1,13 +1,32 @@
-# What is this?
-This is my REU project I did for Bowie State University and I did my research in machine learning and how it approach to enhancing the intrusion detection systems.
+# This is the REU for Bowie State University in Cybersecurity
 
-# What is an REU?
-Research Experiences for Undergraduates are competitive summer research programs in the United States for undergraduates studying science, engineering, or mathematics. The programs are sponsored by the National Science Foundation, and are hosted in various universities.
+## What is an REU?
+### NSF funds a large number of research opportunities for undergraduate students through its REU Sites program. An REU Site consists of a group of ten or so undergraduates who work in the research programs of the host institution. Each student is associated with a specific research project, where he/she works closely with the faculty and other researchers. 
+<img src="NSF pic.jpg" width="250">
 
-# How competitive was this program? 
-REU programs are highly competitive. This program in particular recieved over 100 student and accpeted only 15. They are normally research positions that are fully-funded, which last 6-10 weeks during the summer.
+## REU Objective: aims to provide appropriate and valuable educational experiences for undergraduate students through participation in research. REU projects involve students in meaningful ways in ongoing research programs or in research projects designed especially for the purpose.
 
-# What was my contribution?
+# Our Research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
+### Team members: 
+- [Noah]
+- [David Tan](https://github.com/skytruong90)
 
-# The details of this project:
+### Faculty Mentor: 
+- Dr. David E Anyiwo
+<img src="anywio.jpg" width="200">
+
+## How view the paper, poster, and presentation:
+1. In order to view the full presentation, going to the folder `Our Presentation`
+2. The poster can be view by clicking on the `poster.png`
+3. The paper can be view by clicking on the `Research Paper.pdf`
+
+## This is the paper:
+<img src="" width="400">
+
+## This is the poster:
+<img src="" width="600">
+
+## This is our presentation:
+<img src="" width="600">
+
