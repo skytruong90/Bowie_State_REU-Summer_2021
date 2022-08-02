@@ -21,10 +21,10 @@
 2. The poster can be view by clicking on the ``
 3. The paper can be view by clicking on the ``
 
-## This is the paper:
+## Our research paper:
 <img src="" width="400">
 
-## This is the poster:
+## Our research poster:
 <img src="" width="600">
 
 ## This is our presentation:
