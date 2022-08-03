@@ -6,7 +6,7 @@
 
 ## REU Objective: aims to provide appropriate and valuable educational experiences for undergraduate students through participation in research. REU projects involve students in meaningful ways in ongoing research programs or in research projects designed especially for the purpose.
 
-# Our Research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
+# Our Research Title: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
 ## Our Reserach Goal: 
 
