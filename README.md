@@ -8,6 +8,8 @@
 
 # Our Research: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
+## Our Reserach Goal: 
+
 ### Team members: 
 - [Noah]
 - [David Tan](https://github.com/skytruong90)
