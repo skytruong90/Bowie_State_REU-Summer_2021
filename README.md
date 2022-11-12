@@ -24,12 +24,12 @@
 3. The paper can be view by clicking on the ``
 
 ## Our research paper:
-1. Click on "Research Paper.docx" above
-2. download it
+1. Click on "Research Paper.docx" from above
+2. Download it
 
 ## Our research poster:
 <img src="BOWIE_REU_21.png" width="600">
 
 ## This is our presentation:
-<img src="" width="600">
-
+1. Click on "Cyberintelligence Poster.pptx" from above
+2. Download it
