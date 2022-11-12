@@ -24,7 +24,7 @@
 3. The paper can be view by clicking on the ``
 
 ## Our research paper:
-<img src="" width="400">
+<img src="Research Paper.docx" width="400">
 
 ## Our research poster:
 <img src="BOWIE_REU_21.png" width="600">
