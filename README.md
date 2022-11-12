@@ -9,6 +9,8 @@
 # Our Research Title: AN EFFECTIVE APPROACH TO CLOSING THE BREACH DETECTION GAP (BDG) 
 
 ## Our Reserach Goal: 
+The goal of this research is to find the most accurate machine learning algorithm that can increase IDSs efficiency through automation. By achieving our research goal, we are hoping that our research will provide useful information to advance network security.
+This paper is structured as follows. Section 2 presents some related works to our research. Section 3, the methodology, introduced how we conducted the research to achieve our goal. Section 4 shows the results of our research and discusses them. Finally, in section 5, we summarize our research and outlook on future work.
 
 ### Team members: 
 - Noah
