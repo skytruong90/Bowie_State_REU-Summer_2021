@@ -11,7 +11,7 @@
 ## Our Reserach Goal: 
 
 ### Team members: 
-- [Noah]
+- Noah
 - [David Tan](https://github.com/skytruong90)
 
 ### Faculty Mentor: 
