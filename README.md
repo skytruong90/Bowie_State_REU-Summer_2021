@@ -27,7 +27,7 @@
 <img src="" width="400">
 
 ## Our research poster:
-<img src="" width="600">
+<img src="BOWIE_REU_21.png" width="600">
 
 ## This is our presentation:
 <img src="" width="600">
