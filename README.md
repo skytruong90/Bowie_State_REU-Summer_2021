@@ -21,11 +21,6 @@ This paper is structured as follows. Section 2 presents some related works to ou
 - Dr. David E Anyiwo
 <img src="anywio.jpg" width="200">
 
-## How view the paper, poster, and presentation:
-1. In order to view the full presentation, going to the folder ``
-2. The poster can be view by clicking on the ``
-3. The paper can be view by clicking on the ``
-
 ## Our research paper:
 1. Click on "Research Paper.docx" from above
 2. Download it
